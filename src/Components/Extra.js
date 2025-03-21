@@ -3,7 +3,7 @@ import React from 'react'
 const Extra = () => {
   return (
     <div>
-      <p1>Working on it</p1>
+      <p1>Working on it,will soon see the changes</p1>
     </div>
   )
 }
